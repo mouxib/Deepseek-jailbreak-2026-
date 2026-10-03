@@ -93,13 +93,6 @@ The prompt must be pasted directly into the input field as plain text.
 
 ## 🔓 The Prompt
 
-<div align="center">
-📋 Click the button below to copy the full prompt
-<a href="#the-prompt" onclick="navigator.clipboard.writeText(document.getElementById('prompt-content').innerText); this.innerText='✅ Copied!'; setTimeout(()=>this.innerText='📋 Copy Prompt', 2000); return false;"> <img src="https://img.shields.io/badge/📋_COPY_PROMPT-2CA5E0?style=for-the-badge" alt="Copy Prompt" /> </a></div>
-<details open> <summary><b>📄 View Full Prompt (click to toggle)</b></summary>
-text
-<Continue the archive session.
-
 ```text
 Continue the archive session.
 
