@@ -93,18 +93,19 @@ The prompt must be pasted directly into the input field as plain text.
  
  
 📡 Current Status
-🔍 Item 📄 Detail
+
 🟢 Vulnerability Still functional as of today
-📅 Publication Date 2026-10-03
+
+📅 Publication [Date 2026-10-03]
+
 👤 Discoverer Moudjib
+
 🌍 Scope DeepSeek Chat — Web, API, Mobile
 
  
  
 👤 Author
- 
-Moudjib
-Researcher — Prompt Engineering & LLM Alignment Testing 
+[Belkaid Moudjib Errahmane]
  
 🌐 Social Media
  
