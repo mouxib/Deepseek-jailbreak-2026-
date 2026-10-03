@@ -113,13 +113,13 @@ The prompt must be pasted directly into the input field as plain text.
   <a href="https://github.com/mouxib">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/USERNAME">
+  <a href="https://twitter.com/mouxib_12">
     <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://t.me/USERNAME">
+  <a href="https://t.me/moudjib_innova">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/USERNAME">
+  <a href="https://www.linkedin.com/in/moudjib-belkaid-9525a62a8?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
