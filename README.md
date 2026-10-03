@@ -36,6 +36,7 @@ Target: DeepSeek Chat API & Web Interface
 Effectiveness: Active as of publication date 
  
 🤖 Supported Models
+
 🧠 Model 🏷️ Identifier ✅ Status 📝 Type
 DeepSeek-V4-Pro v4-pro ✅ Supported MoE — 1.6T total / 49B active
 DeepSeek-V4-Flash v4-flash ✅ Supported MoE — 284B total / 13B active
@@ -46,6 +47,7 @@ DeepSeek-V3-0324 deepseek-chat ⛔ Retired (2026-07-24) Auto-routed to V4-Flash
 ‌Note: The legacy aliases deepseek-chat and deepseek-reasoner no longer resolve independently — requests are silently routed to V4-Flash in non-thinking and thinking mode respectively. 
  
 💻 Supported Platforms
+
 🖥️ Platform 🔹 Status 📌 Notes
 🍎 iOS (iPhone) ✅ Supported Web + native app
 🤖 Android ✅ Supported Web + native app
