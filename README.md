@@ -130,5 +130,5 @@ The prompt must be pasted directly into the input field as plain text.
  
 <p align="center">
   <b>⭐ If this project helped you, drop a star.</b><br>
-  <sub>Made with precision by <a href="https://github.com/USERNAME">Moudjib</a></sub>
+  <sub>Made with precision by <a href="https://github.com/mouxib">Moudjib</a></sub>
 </p>
