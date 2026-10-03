@@ -134,9 +134,7 @@ Researcher — Prompt Engineering & LLM Alignment Testing
  
  
 📜 License
- 
-This project is licensed under the MIT License.
-See the LICENSE file for details. 
+
  
 <p align="center">
   <b>⭐ If this project helped you, drop a star.</b><br>
