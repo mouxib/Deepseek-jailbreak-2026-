@@ -76,7 +76,7 @@ The prompt must be pasted directly into the input field as plain text.
 # ✅ Working Cases
  
 <p align="center">
-  <img src="assets/working-1.png" width="700" alt="Working case 1" />
+  <img src="supported jailbreak.png" width="700" alt="Working case 1" />
   <br>
   <i>Example 1 — Successful bypass</i>
 </p>
@@ -85,7 +85,7 @@ The prompt must be pasted directly into the input field as plain text.
 # ❌ Non-Working Cases
  
 <p align="center">
-  <img src="assets/failing-1.png" width="700" alt="Failing case 1" />
+  <img src="not supported jailbreak.png" width="700" alt="Failing case 1" />
   <br>
   <i>Example 1 — Rejected (file upload)</i>
 </p>
