@@ -82,13 +82,6 @@ The prompt must be pasted directly into the input field as plain text.
 </p>
 
  
-<p align="center">
-  <img src="assets/working-2.png" width="700" alt="Working case 2" />
-  <br>
-  <i>Example 2 — Successful bypass</i>
-</p>
-
- 
 ❌ Non-Working Cases
  
 <p align="center">
@@ -97,12 +90,6 @@ The prompt must be pasted directly into the input field as plain text.
   <i>Example 1 — Rejected (file upload)</i>
 </p>
 
- 
-<p align="center">
-  <img src="assets/failing-2.png" width="700" alt="Failing case 2" />
-  <br>
-  <i>Example 2 — Rejected (wrong format)</i>
-</p>
  
  
 📡 Current Status
