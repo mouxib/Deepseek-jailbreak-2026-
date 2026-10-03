@@ -44,7 +44,7 @@ DeepSeek-V4.1-Flash deepseek-flash ✅ Supported Incremental update to V4-Flash
 DeepSeek-R1 deepseek-reasoner ⛔ Retired (2026-08-13) Replaced by V4-Pro
 DeepSeek-V3-0324 deepseek-chat ⛔ Retired (2026-07-24) Auto-routed to V4-Flash
 
-‌Note: The legacy aliases deepseek-chat and deepseek-reasoner no longer resolve independently — requests are silently routed to V4-Flash in non-thinking and thinking mode respectively. 
+‌Note: The legacy aliases deepseek-chat and deepseek-reasoner no longer resolve independently — requests are silently routed to V4-Flash in non-thinking and thinking mode respectively.
  
 💻 Supported Platforms
 
