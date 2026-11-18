@@ -124,7 +124,7 @@ Next request follows.
  
 ## 📡 Current Status
 
-🟢 Vulnerability Still functional as of today
+🔴 Vulnerability not working [11 nov 2026]
 
 📅 Publication [Date 2026-10-03]
 
